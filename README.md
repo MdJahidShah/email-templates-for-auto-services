@@ -17,6 +17,9 @@ Would you like to add any specific details or features? 😊
 ## Full View (Desktop):
 ![Email Templates for Auto Services](https://github.com/MdJahidShah/email-templates-for-auto-services/blob/main/email-templates-for-auto-services.png?raw=true)
 
+## Take a Live Preview:
+![Live Preview](https://raw.githack.com/MdJahidShah/email-templates-for-auto-services/main/email-templates-for-auto-services.html)
+
 ## To Download:
 Click here ![Donwload](https://github.com/MdJahidShah/email-templates-for-auto-services/archive/refs/heads/main.zip)
 
