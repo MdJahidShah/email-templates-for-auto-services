@@ -21,7 +21,7 @@ Would you like to add any specific details or features? 😊
 <a href="https://raw.githack.com/MdJahidShah/email-templates-for-auto-services/main/email-templates-for-auto-services.html" target="_blank" rel="noopener noreferrer">Live Preview</a>
 
 ## To Download:
-Click here ![Donwload](https://github.com/MdJahidShah/email-templates-for-auto-services/archive/refs/heads/main.zip)
+Click here: [Donwload](https://github.com/MdJahidShah/email-templates-for-auto-services/archive/refs/heads/main.zip)
 
 ## License  
 This project is licensed under the MIT License – feel free to use, modify, and distribute! 
