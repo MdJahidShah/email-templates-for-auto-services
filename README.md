@@ -15,7 +15,7 @@ Feel free to contribute or customize for your needs! 🚀
 Would you like to add any specific details or features? 😊
 
 ## Full View:
-![London Law Farm Full View](https://github.com/MdJahidShah/email-templates-for-auto-services/blob/main/email-templates-for-auto-services.png?raw=true)
+![Email Templates for Auto Services](https://github.com/MdJahidShah/email-templates-for-auto-services/blob/main/email-templates-for-auto-services.png?raw=true)
 
 
 ## License  
